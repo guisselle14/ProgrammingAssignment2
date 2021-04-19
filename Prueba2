@@ -1,0 +1,34 @@
+
+> makeVector<- function(x= numeric(5)) 
++ x<-NULL
+> set<- function()y
+> 
+> makeVector<- function(x= numeric(5)) {
++ x<-NULL
++ set<- function()y
++ set<- function()y {
+Error: inesperado '{' in:
+"set<- function()y
+set<- function()y {"
+> w<-y
+
+> x<-NULL
+> }
+
+> get <-function() w
+> setmaen<-function(mean) x <-mean
+> getmean<-function()x
+> list(set = set, get= get, setmean=setmean, getmean= getmean)
+
+> cachmean<-function(x,y,w,z)
++ 
++ x<-y$getmean()
+> if(is.null(x))
++ if(is.null(x))
++ message("erroneo")
+
+> return(x)
+
+> data<-y$get()
+
+> data<- x$get()
